@@ -1,0 +1,88 @@
+*{ 
+    padding: 0;
+}
+
+
+header{ 
+    background-image: url(../img/pattern.png);
+    background-color:rgba(90, 161, 216, 0.462);
+    height:70px;
+    background-size: contain;
+}
+#logo{ 
+    width: 100px;
+    height: 100px;
+   
+}
+.nome-azienda{ 
+    color: rgb(0, 145, 255);
+}
+.item{ 
+    color: grey;
+    font-size: medium;
+    
+}
+
+.item-data{ 
+    margin-top: 0;
+    color: grey;
+    font-size: small;
+}
+
+
+
+.text-yellow{ 
+    background-color: yellow;
+}
+
+
+
+
+h1{ 
+    font-size: 50px;
+    margin: 0;
+}
+
+
+.color-row{ 
+    background-color: rgba(0, 255, 255, 0.402);
+    
+}
+
+.color-head{ 
+    background-color: rgba(0, 115, 255, 0.248);
+    
+    
+}
+table{ 
+    border-collapse: collapse;
+    text-align: left;
+}
+td{ 
+    width: 25%;
+}
+.third-column{ 
+    width: 50%;
+}
+
+.square { 
+    color:white;
+    background:url(../img/monitor.jpg);
+    width: 250px;
+    height: 200px;
+    margin: 10px 0;
+    padding: 5px;
+}
+
+.square2{ 
+    color: aliceblue;
+    background: url(../img/graph.jpg);
+    width: 250px;
+    height: 200px;
+    margin: 10px 0;
+    padding: 5px;
+}
+
+ul{ 
+    margin: 20px 15px;
+}
